@@ -9,4 +9,4 @@ I'm a passionate software developer with expertise in Python, Java, JavaScript, 
 
 ## Get in Touch
 - LinkedIn: Mahela Lewle ([link-to-linkedin](https://www.linkedin.com/in/mahelashewonlewle/))
-- Web Portfolio: https://mahela-portfolio-2025.web.app/
+- Web Portfolio: ([link-to-web-portfolio](https://mahela-portfolio-2025.web.app/))
