@@ -1,10 +1,10 @@
 # 🔥 Hey there! I'm Mahela Lewle
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mahelashewonlewle/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://mahela-portfolio-2025.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mahela.shewon@gmail.com">
@@ -44,22 +44,23 @@ I am a **Software Developer** focused on building high-performance, impactful ap
 
 ## 📌 Featured Projects
 
-### 🏋️ [FlexBuddy](https://github.com/YOUR_USERNAME/FlexBuddy)
+### 🏋️ [FlexBuddy](https://github.com/mahelashewon/fitnessApp)
 > **Cross-Platform Fitness Tracking Mobile App**
 - Built with **Flutter** and **Firebase** to provide real-time workout management.
 - Features an interactive BMI calculator and personalized progress tracking dashboards.
-- *Tech:* Flutter, Dart, Firebase Auth, Firestore.
+- *Tech:* Flutter(Android), Dart, Firebase Auth, Firestore.
 
-### 🌾 [IoT Grain Monitoring System](https://github.com/YOUR_USERNAME/IoT-Grain-Monitoring)
-> **Smart Agriculture Solution**
-- Developed an end-to-end IoT application to monitor and secure grain storage metrics.
-- Leveraged real-time data streaming to trigger automated alerts for environmental shifts.
-- *Tech:* Python, IoT Protocols, Hardware Integration.
+### 💊 [pillPlanner](https://github.com/mahelashewon/pillPlanner)
+> **Medicine Routine Tracking System**
+- Developed a smart application designed to schedule, manage, and track daily medication intake.
+- Features automated reminders and routine logging to assist users with health compliance.
+- *Tech:* Flutter(Android), Flutter, Firebase.
 
-### 📊 [Data Science Case Studies](https://github.com/YOUR_USERNAME/Data-Science-Studies)
-> **Analytical Problem Solving**
-- A collection of data pipeline and exploratory data analysis (EDA) projects resolving real-world business challenges.
-- *Tech:* Python, Pandas, NumPy, Matplotlib.
+### 🛍️ [GiftsandThings](https://github.com/YOUR_USERNAME/GiftsandThings)
+> **E-Commerce Web Application**
+- Designed a full-stack online store for party items and custom gifts, incorporating secure user browsing and a smooth checkout workflow.
+- Implemented core administrative features to track orders and manage inventory updates seamlessly.
+- *Tech:* React, Firebase.
 
 ---
 
@@ -74,6 +75,6 @@ I am a **Software Developer** focused on building high-performance, impactful ap
 
 ## 🤝 Let's Connect!
 
-- 🌐 Check out my **[Personal Portfolio Website](https://YOUR_PORTFOLIO_URL)** for a deeper look at my work.
-- 💼 Connect or message me on **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)**.
+- 🌐 Check out my **[Personal Portfolio Website](https://mahela-portfolio-2025.web.app)** for a deeper look at my work.
+- 💼 Connect or message me on **[LinkedIn](https://www.linkedin.com/in/mahelashewonlewle)**.
 - 📧 Or drop an email at **mahela.shewon@gmail.com**.
